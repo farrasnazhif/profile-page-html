@@ -53,8 +53,8 @@ td {
   text-align: left;
 }
 
-tr:nth-child(even) {
-  background: #f0f4f8;
+th {
+  background-color: #ddd;
 }
 
 form {
